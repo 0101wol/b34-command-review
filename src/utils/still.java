@@ -10,4 +10,12 @@ public class still {
 
  // live 4
 
+
+  // method to add
+
+
+// method for multiply
+  // clear 5
+
+
 }
